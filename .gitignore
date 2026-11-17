@@ -1,0 +1,11 @@
+node_modules/
+dist/
+dist-worker/
+.wrangler/
+.tmp/
+.dev.vars
+.env
+.env.local
+*.log
+.DS_Store
+/freebuff-sites-build/

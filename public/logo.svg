@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Café 90's">
+  <rect width="64" height="64" rx="16" fill="#17100b"/>
+  <g fill="none" stroke="#f7edda" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M19 27h20v8.6A6.9 6.9 0 0 1 32.1 42.5h-6.2A6.9 6.9 0 0 1 19 35.6V27Z"/>
+    <path d="M39 29.5h2.2a4 4 0 0 1 0 8H39"/>
+    <path d="M25.6 32.4a2.7 2.7 0 1 1 2.7 2.7"/>
+    <path d="M25 46.5h14"/>
+    <path d="M25.5 20.5c0-1.7 1.5-2.2 1.5-3.9M31 21c0-2 1.7-2.5 1.7-4.3"/>
+  </g>
+  <text x="32" y="56.5" text-anchor="middle" font-family="Georgia, serif" font-size="9" font-weight="700" fill="#f0a63c">90&apos;s</text>
+</svg>
