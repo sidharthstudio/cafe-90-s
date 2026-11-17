@@ -9,3 +9,6 @@ dist-worker/
 *.log
 .DS_Store
 /freebuff-sites-build/
+
+freebuff.deploy.json
+.tmp/secrets/

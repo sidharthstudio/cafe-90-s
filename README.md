@@ -123,6 +123,27 @@ All order totals, discounts and delivery fees are recalculated from the database
 browser never supplies prices. Admin cookies are HttpOnly, SameSite=Lax, `Secure` on HTTPS, and
 admin mutations reject cross-origin requests.
 
+## Publish from GitHub (Cloudflare Workers)
+
+`.github/workflows/deploy.yml` builds and deploys the site on every push to `main`. One-time setup:
+
+1. **Cloudflare API token** — dashboard → My Profile → API Tokens → Create Token → use the
+   *Edit Cloudflare Workers* template and add **D1: Edit**. Copy the token (shown once).
+2. **Account ID** — Cloudflare dashboard → Workers & Pages → right sidebar.
+3. **GitHub → Settings → Secrets and variables → Actions → New repository secret**:
+   - `CLOUDFLARE_API_TOKEN` — the token from step 1
+   - `CLOUDFLARE_ACCOUNT_ID` — the id from step 2
+   - `SESSION_SECRET` — any long random string (signs admin session cookies; set it)
+   - optional `ADMIN_EMAIL`, `ADMIN_NAME`, `ADMIN_PASSWORD` — used only the first time the database
+     is seeded, so set them before the first successful run if you want a non-default owner login
+4. Push to `main`, or run **Actions → Deploy to Cloudflare Workers → Run workflow**. The job creates
+   the `cafe90s-db` D1 database if it is missing, injects its id into `wrangler.jsonc`, builds the
+   site, deploys the Worker, applies the secrets and smoke-tests `/api/menu` (fails unless the 174
+   seeded items come back).
+5. The live `*.workers.dev` URL is printed in the deploy log and the run summary. Add a custom
+   domain under Workers & Pages → `cafe-90s` → Settings → Domains, then update the canonical/OG URLs
+   in `index.html` and the domain in `public/sitemap.xml` / `public/robots.txt`.
+
 ## Deployment notes
 
 The Worker only needs two bindings: `DB` (D1) and `ASSETS` (built site). Build with
