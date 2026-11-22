@@ -1,0 +1,2558 @@
+[
+  {
+    "id": "normal-tea",
+    "name": "Normal Tea",
+    "category": "Tea & Coffee",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 15
+      }
+    ],
+    "image": "/img/tea.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "black-tea",
+    "name": "Black Tea",
+    "category": "Tea & Coffee",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 10
+      }
+    ],
+    "image": "/img/tea.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "black-coffee",
+    "name": "Black Coffee",
+    "category": "Tea & Coffee",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 15
+      }
+    ],
+    "image": "/img/coffee.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "lime-tea",
+    "name": "Lime Tea",
+    "category": "Tea & Coffee",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 20
+      }
+    ],
+    "image": "/img/tea.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "mint-tea",
+    "name": "Mint Tea",
+    "category": "Tea & Coffee",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 20
+      }
+    ],
+    "image": "/img/tea.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "coffee",
+    "name": "Coffee",
+    "category": "Tea & Coffee",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 25
+      }
+    ],
+    "image": "/img/coffee.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "horlicks",
+    "name": "Horlicks",
+    "category": "Tea & Coffee",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 30
+      }
+    ],
+    "image": "/img/coffee.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "boost",
+    "name": "Boost",
+    "category": "Tea & Coffee",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 30
+      }
+    ],
+    "image": "/img/coffee.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "chocolate-coffee",
+    "name": "Chocolate Coffee",
+    "category": "Tea & Coffee",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 99
+      }
+    ],
+    "image": "/img/coffee.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "cold-coffee",
+    "name": "Cold Coffee",
+    "category": "Tea & Coffee",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 70
+      }
+    ],
+    "image": "/img/coffee.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "cold-coffee-special",
+    "name": "Cold Coffee Special",
+    "category": "Tea & Coffee",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 99
+      }
+    ],
+    "image": "/img/coffee.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "normal-lime",
+    "name": "Normal Lime",
+    "category": "Fresh Lime",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 25
+      }
+    ],
+    "image": "/img/lime.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "soda-lime",
+    "name": "Soda Lime",
+    "category": "Fresh Lime",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 30
+      }
+    ],
+    "image": "/img/lime.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "mint-lime",
+    "name": "Mint Lime",
+    "category": "Fresh Lime",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 40
+      }
+    ],
+    "image": "/img/lime.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "ginger-lime",
+    "name": "Ginger Lime",
+    "category": "Fresh Lime",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 40
+      }
+    ],
+    "image": "/img/lime.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "pineapple-lime",
+    "name": "Pineapple Lime",
+    "category": "Fresh Lime",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 40
+      }
+    ],
+    "image": "/img/lime.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "all-flavours-of-lime-available",
+    "name": "All Flavours of Lime Available",
+    "category": "Fresh Lime",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 40
+      }
+    ],
+    "image": "/img/lime.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "all-flavours-kulukki",
+    "name": "All Flavours Kulukki",
+    "category": "Kulukki",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 50
+      }
+    ],
+    "image": "/img/lime.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "sharjah-shake",
+    "name": "Sharjah Shake",
+    "category": "Milkshakes",
+    "variants": [
+      {
+        "name": "Normal",
+        "price": 70
+      },
+      {
+        "name": "Special",
+        "price": 130
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "mango-shake",
+    "name": "Mango Shake",
+    "category": "Milkshakes",
+    "variants": [
+      {
+        "name": "Normal",
+        "price": 80
+      },
+      {
+        "name": "Special",
+        "price": 130
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "pista-shake",
+    "name": "Pista Shake",
+    "category": "Milkshakes",
+    "variants": [
+      {
+        "name": "Normal",
+        "price": 80
+      },
+      {
+        "name": "Special",
+        "price": 130
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "butter-scotch-shake",
+    "name": "Butter Scotch Shake",
+    "category": "Milkshakes",
+    "variants": [
+      {
+        "name": "Normal",
+        "price": 80
+      },
+      {
+        "name": "Special",
+        "price": 130
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "rosemilk-shake",
+    "name": "Rosemilk Shake",
+    "category": "Milkshakes",
+    "variants": [
+      {
+        "name": "Normal",
+        "price": 80
+      },
+      {
+        "name": "Special",
+        "price": 130
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "badam-bounty-shake",
+    "name": "Badam Bounty Shake",
+    "category": "Milkshakes",
+    "variants": [
+      {
+        "name": "Normal",
+        "price": 80
+      },
+      {
+        "name": "Special",
+        "price": 130
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "strawberry-shake",
+    "name": "Strawberry Shake",
+    "category": "Milkshakes",
+    "variants": [
+      {
+        "name": "Normal",
+        "price": 80
+      },
+      {
+        "name": "Special",
+        "price": 130
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "vanilla-shake",
+    "name": "Vanilla Shake",
+    "category": "Milkshakes",
+    "variants": [
+      {
+        "name": "Normal",
+        "price": 80
+      },
+      {
+        "name": "Special",
+        "price": 130
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "chocolate-shake",
+    "name": "Chocolate Shake",
+    "category": "Milkshakes",
+    "variants": [
+      {
+        "name": "Normal",
+        "price": 90
+      },
+      {
+        "name": "Special",
+        "price": 130
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "oreo-kitkat-shake",
+    "name": "Oreo / Kitkat Shake",
+    "category": "Milkshakes",
+    "variants": [
+      {
+        "name": "Normal",
+        "price": 90
+      },
+      {
+        "name": "Special",
+        "price": 130
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "tender-coconut-shake",
+    "name": "Tender Coconut Shake",
+    "category": "Milkshakes",
+    "variants": [
+      {
+        "name": "Normal",
+        "price": 100
+      },
+      {
+        "name": "Special",
+        "price": 140
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "strawberry-mojito",
+    "name": "Strawberry Mojito",
+    "category": "Mojito",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 99
+      }
+    ],
+    "image": "/img/mojito.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "pista-mojito",
+    "name": "Pista Mojito",
+    "category": "Mojito",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 99
+      }
+    ],
+    "image": "/img/mojito.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "butterscotch-mojito",
+    "name": "Butterscotch Mojito",
+    "category": "Mojito",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 99
+      }
+    ],
+    "image": "/img/mojito.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "lime-mint-mojito",
+    "name": "Lime & Mint Mojito",
+    "category": "Mojito",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 99
+      }
+    ],
+    "image": "/img/mojito.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "mohabbat-ka-sharbat",
+    "name": "Mohabbat Ka Sharbat",
+    "category": "Mojito",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 99
+      }
+    ],
+    "image": "/img/mojito.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "candy-cotton-mojito",
+    "name": "Candy Cotton Mojito",
+    "category": "Mojito",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 99
+      }
+    ],
+    "image": "/img/mojito.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "curacao-mojito",
+    "name": "Curacao Mojito",
+    "category": "Mojito",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 99
+      }
+    ],
+    "image": "/img/mojito.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "aam-panna-mojito",
+    "name": "Aam Panna Mojito",
+    "category": "Mojito",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 99
+      }
+    ],
+    "image": "/img/mojito.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "banana-mojito",
+    "name": "Banana Mojito",
+    "category": "Mojito",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 99
+      }
+    ],
+    "image": "/img/mojito.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "green-lime-mojito",
+    "name": "Green Lime Mojito",
+    "category": "Mojito",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 99
+      }
+    ],
+    "image": "/img/mojito.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "water-melon-mojito",
+    "name": "Water Melon Mojito",
+    "category": "Mojito",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 99
+      }
+    ],
+    "image": "/img/mojito.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "very-berry-mojito",
+    "name": "Very Berry Mojito",
+    "category": "Mojito",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 99
+      }
+    ],
+    "image": "/img/mojito.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "litchi-mojito",
+    "name": "Litchi Mojito",
+    "category": "Mojito",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 99
+      }
+    ],
+    "image": "/img/mojito.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "blueberry-mojito",
+    "name": "Blueberry Mojito",
+    "category": "Mojito",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 99
+      }
+    ],
+    "image": "/img/mojito.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "mulberry-mojito",
+    "name": "Mulberry Mojito",
+    "category": "Mojito",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 99
+      }
+    ],
+    "image": "/img/mojito.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "pineapple-mojito",
+    "name": "Pineapple Mojito",
+    "category": "Mojito",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 99
+      }
+    ],
+    "image": "/img/mojito.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "mango-mojito",
+    "name": "Mango Mojito",
+    "category": "Mojito",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 99
+      }
+    ],
+    "image": "/img/mojito.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "blackcurrant",
+    "name": "Blackcurrant",
+    "category": "Mojito",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 99
+      }
+    ],
+    "image": "/img/mojito.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "guava-mojito",
+    "name": "Guava Mojito",
+    "category": "Mojito",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 99
+      }
+    ],
+    "image": "/img/mojito.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "mixed-fruit-mojito",
+    "name": "Mixed Fruit Mojito",
+    "category": "Mojito",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 99
+      }
+    ],
+    "image": "/img/mojito.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "orange-mojito",
+    "name": "Orange Mojito",
+    "category": "Mojito",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 99
+      }
+    ],
+    "image": "/img/mojito.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "rose-milk-mojito",
+    "name": "Rose Milk Mojito",
+    "category": "Mojito",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 99
+      }
+    ],
+    "image": "/img/mojito.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "passion-fruit-mojito",
+    "name": "Passion Fruit Mojito",
+    "category": "Mojito",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 120
+      }
+    ],
+    "image": "/img/mojito.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "kiwi-mojito",
+    "name": "Kiwi Mojito",
+    "category": "Mojito",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 120
+      }
+    ],
+    "image": "/img/mojito.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "apple-juice",
+    "name": "Apple Juice",
+    "category": "Fresh Juices",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 80
+      }
+    ],
+    "image": "/img/juice.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "grape-juice",
+    "name": "Grape Juice",
+    "category": "Fresh Juices",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 80
+      }
+    ],
+    "image": "/img/juice.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "mango-juice",
+    "name": "Mango Juice",
+    "category": "Fresh Juices",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 80
+      }
+    ],
+    "image": "/img/juice.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "orange-juice",
+    "name": "Orange Juice",
+    "category": "Fresh Juices",
+    "variants": [
+      {
+        "name": "Normal",
+        "price": 80
+      },
+      {
+        "name": "Milk",
+        "price": 90
+      }
+    ],
+    "image": "/img/juice.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "water-melon-juice",
+    "name": "Water Melon Juice",
+    "category": "Fresh Juices",
+    "variants": [
+      {
+        "name": "Normal",
+        "price": 60
+      },
+      {
+        "name": "Milk",
+        "price": 70
+      }
+    ],
+    "image": "/img/juice.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "pineapple-juice",
+    "name": "Pineapple Juice",
+    "category": "Fresh Juices",
+    "variants": [
+      {
+        "name": "Normal",
+        "price": 70
+      },
+      {
+        "name": "Milk",
+        "price": 80
+      }
+    ],
+    "image": "/img/juice.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "shamam-juice",
+    "name": "Shamam Juice",
+    "category": "Fresh Juices",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 80
+      }
+    ],
+    "image": "/img/juice.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "papaya-juice",
+    "name": "Papaya Juice",
+    "category": "Fresh Juices",
+    "variants": [
+      {
+        "name": "Normal",
+        "price": 60
+      },
+      {
+        "name": "Milk",
+        "price": 70
+      }
+    ],
+    "image": "/img/juice.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "strawberry-juice",
+    "name": "Strawberry Juice",
+    "category": "Fresh Juices",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 90
+      }
+    ],
+    "image": "/img/juice.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "tender-coconut-juice",
+    "name": "Tender Coconut Juice",
+    "category": "Fresh Juices",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 90
+      }
+    ],
+    "image": "/img/juice.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "carrot-juice",
+    "name": "Carrot Juice",
+    "category": "Fresh Juices",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 60
+      }
+    ],
+    "image": "/img/juice.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "cucumber-juice",
+    "name": "Cucumber Juice",
+    "category": "Fresh Juices",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 60
+      }
+    ],
+    "image": "/img/juice.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "mixed-juice",
+    "name": "Mixed Juice",
+    "category": "Fresh Juices",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 80
+      }
+    ],
+    "image": "/img/juice.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "normal-avil-milk",
+    "name": "Normal Avil Milk",
+    "category": "Avil Milk Special",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 99
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "special-avil-milk",
+    "name": "Special Avil Milk",
+    "category": "Avil Milk Special",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 119
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "mango-avil-milk",
+    "name": "Mango Avil Milk",
+    "category": "Avil Milk Special",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 129
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "butterscotch-avil-milk",
+    "name": "Butterscotch Avil Milk",
+    "category": "Avil Milk Special",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 129
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "pista-avil-milk",
+    "name": "Pista Avil Milk",
+    "category": "Avil Milk Special",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 129
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "badam-avil-milk",
+    "name": "Badam Avil Milk",
+    "category": "Avil Milk Special",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 129
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "falooda-mix-avil-milk",
+    "name": "Falooda Mix Avil Milk",
+    "category": "Avil Milk Special",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 129
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "vanilla-avil-milk",
+    "name": "Vanilla Avil Milk",
+    "category": "Avil Milk Special",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 129
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "pineapple-avil-milk",
+    "name": "Pineapple Avil Milk",
+    "category": "Avil Milk Special",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 129
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "litchi-avil-milk",
+    "name": "Litchi Avil Milk",
+    "category": "Avil Milk Special",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 129
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "blackcurrant-avil-milk",
+    "name": "Blackcurrant Avil Milk",
+    "category": "Avil Milk Special",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 129
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "strawberry-avil-milk",
+    "name": "Strawberry Avil Milk",
+    "category": "Avil Milk Special",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 129
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "roseberry-avil-milk",
+    "name": "Roseberry Avil Milk",
+    "category": "Avil Milk Special",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 129
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "passion-fruit-avil-milk",
+    "name": "Passion Fruit Avil Milk",
+    "category": "Avil Milk Special",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 129
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "banana-avil-milk",
+    "name": "Banana Avil Milk",
+    "category": "Avil Milk Special",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 129
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "guava-special-avil-milk",
+    "name": "Guava Special Avil Milk",
+    "category": "Avil Milk Special",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 129
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "mulberry-avil-milk",
+    "name": "Mulberry Avil Milk",
+    "category": "Avil Milk Special",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 129
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "honey-special-avil-milk",
+    "name": "Honey Special Avil Milk",
+    "category": "Avil Milk Special",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 149
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "mixed-dry-fruit-avil-milk",
+    "name": "Mixed Dry Fruit Avil Milk",
+    "category": "Avil Milk Special",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 149
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "oreo-avil-milk",
+    "name": "Oreo Avil Milk",
+    "category": "Avil Milk Special",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 149
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "chocolate-avil-milk",
+    "name": "Chocolate Avil Milk",
+    "category": "Avil Milk Special",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 149
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "tender-coconut-avil-milk",
+    "name": "Tender Coconut Avil Milk",
+    "category": "Avil Milk Special",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 149
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "regular-falooda",
+    "name": "Regular Falooda",
+    "category": "Falooda",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 120
+      }
+    ],
+    "image": "/img/falooda.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "mango-falooda",
+    "name": "Mango Falooda",
+    "category": "Falooda",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 169
+      }
+    ],
+    "image": "/img/falooda.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "dryfruit-mixed-falooda",
+    "name": "Dryfruit Mixed Falooda",
+    "category": "Falooda",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 179
+      }
+    ],
+    "image": "/img/falooda.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "dark-chocolate-nutella-mix-falooda",
+    "name": "Dark Chocolate Nutella Mix Falooda",
+    "category": "Falooda",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 179
+      }
+    ],
+    "image": "/img/falooda.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "oreo-cookie-mixed-falooda",
+    "name": "Oreo Cookie Mixed Falooda",
+    "category": "Falooda",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 179
+      }
+    ],
+    "image": "/img/falooda.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "royal-falooda",
+    "name": "Royal Falooda",
+    "category": "Falooda",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 199
+      }
+    ],
+    "image": "/img/falooda.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "tender-coconut-falooda",
+    "name": "Tender Coconut Falooda",
+    "category": "Falooda",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 199
+      }
+    ],
+    "image": "/img/falooda.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "cafe-90-s-special-falooda",
+    "name": "Cafe 90's Special Falooda",
+    "category": "Falooda",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 220
+      }
+    ],
+    "image": "/img/falooda.webp",
+    "available": true,
+    "featured": true
+  },
+  {
+    "id": "butterscotch-falooda",
+    "name": "Butterscotch Falooda",
+    "category": "Falooda",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 169
+      }
+    ],
+    "image": "/img/falooda.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "strawberry-falooda",
+    "name": "Strawberry Falooda",
+    "category": "Falooda",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 169
+      }
+    ],
+    "image": "/img/falooda.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "chocolate-falooda",
+    "name": "Chocolate Falooda",
+    "category": "Falooda",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 169
+      }
+    ],
+    "image": "/img/falooda.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "pineapple-falooda",
+    "name": "Pineapple Falooda",
+    "category": "Falooda",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 169
+      }
+    ],
+    "image": "/img/falooda.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "fruit-salad-normal",
+    "name": "Fruit Salad Normal",
+    "category": "Fruit Salad",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 110
+      }
+    ],
+    "image": "/img/fruit.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "fruit-salad-special",
+    "name": "Fruit Salad Special",
+    "category": "Fruit Salad",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 149
+      }
+    ],
+    "image": "/img/fruit.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "kuboos-roll",
+    "name": "Kuboos Roll",
+    "category": "Shawarma",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 90
+      }
+    ],
+    "image": "/img/shawarma.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "kuboos-plate",
+    "name": "Kuboos Plate",
+    "category": "Shawarma",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 120
+      }
+    ],
+    "image": "/img/shawarma.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "full-meat-kuboos-roll",
+    "name": "Full Meat Kuboos Roll",
+    "category": "Shawarma",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 140
+      }
+    ],
+    "image": "/img/shawarma.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "full-meat-kuboos-plate",
+    "name": "Full Meat Kuboos Plate",
+    "category": "Shawarma",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 160
+      }
+    ],
+    "image": "/img/shawarma.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "rumali-roll",
+    "name": "Rumali Roll",
+    "category": "Shawarma",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 100
+      }
+    ],
+    "image": "/img/shawarma.webp",
+    "available": true,
+    "featured": true
+  },
+  {
+    "id": "rumali-plate",
+    "name": "Rumali Plate",
+    "category": "Shawarma",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 130
+      }
+    ],
+    "image": "/img/shawarma.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "full-meat-rumali-roll",
+    "name": "Full Meat Rumali Roll",
+    "category": "Shawarma",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 150
+      }
+    ],
+    "image": "/img/shawarma.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "full-meat-rumali-plate",
+    "name": "Full Meat Rumali Plate",
+    "category": "Shawarma",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 180
+      }
+    ],
+    "image": "/img/shawarma.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "rumali-cheese-roll",
+    "name": "Rumali Cheese Roll",
+    "category": "Shawarma",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 130
+      }
+    ],
+    "image": "/img/shawarma.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "rumali-cheese-plate",
+    "name": "Rumali Cheese Plate",
+    "category": "Shawarma",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 160
+      }
+    ],
+    "image": "/img/shawarma.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "rumali-peri-peri-roll",
+    "name": "Rumali Peri Peri Roll",
+    "category": "Shawarma",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 120
+      }
+    ],
+    "image": "/img/shawarma.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "rumali-peri-peri-plate",
+    "name": "Rumali Peri Peri Plate",
+    "category": "Shawarma",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 150
+      }
+    ],
+    "image": "/img/shawarma.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "lays-shawarma",
+    "name": "Lays Shawarma",
+    "category": "Shawarma",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 130
+      }
+    ],
+    "image": "/img/shawarma.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "special-loaded-shawarma",
+    "name": "Special Loaded Shawarma",
+    "category": "Shawarma",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 199
+      }
+    ],
+    "image": "/img/shawarma.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "chicken-burger",
+    "name": "Chicken Burger",
+    "category": "Burgers",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 120
+      }
+    ],
+    "image": "/img/burger.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "chicken-double-patty-burger",
+    "name": "Chicken Double Patty Burger",
+    "category": "Burgers",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 150
+      }
+    ],
+    "image": "/img/burger.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "cheese-burger",
+    "name": "Cheese Burger",
+    "category": "Burgers",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 130
+      }
+    ],
+    "image": "/img/burger.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "chicken-double-patty-cheese-burger",
+    "name": "Chicken Double Patty Cheese Burger",
+    "category": "Burgers",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 170
+      }
+    ],
+    "image": "/img/burger.webp",
+    "available": true,
+    "featured": true
+  },
+  {
+    "id": "veg-burger",
+    "name": "Veg Burger",
+    "category": "Burgers",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 99
+      }
+    ],
+    "image": "/img/burger.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "cheesy-creamy-burger",
+    "name": "Cheesy Creamy Burger",
+    "category": "Burgers",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 169
+      }
+    ],
+    "image": "/img/burger.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "brosted-chicken-burger",
+    "name": "Brosted Chicken Burger",
+    "category": "Burgers",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 179
+      }
+    ],
+    "image": "/img/burger.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "normal-chicken-sandwich",
+    "name": "Normal Chicken Sandwich",
+    "category": "Sandwiches",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 149
+      }
+    ],
+    "image": "/img/sandwich.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "club-sandwich",
+    "name": "Club Sandwich",
+    "category": "Sandwiches",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 199
+      }
+    ],
+    "image": "/img/sandwich.webp",
+    "available": true,
+    "featured": true
+  },
+  {
+    "id": "egg-sandwich",
+    "name": "Egg Sandwich",
+    "category": "Sandwiches",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 99
+      }
+    ],
+    "image": "/img/sandwich.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "normal-pops-chicken",
+    "name": "Normal Pops Chicken",
+    "category": "Chicken Pops (10 Pieces)",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 99
+      }
+    ],
+    "image": "/img/nuggets.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "periperi-pops",
+    "name": "Periperi Pops",
+    "category": "Chicken Pops (10 Pieces)",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 110
+      }
+    ],
+    "image": "/img/nuggets.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "spicy-pops",
+    "name": "Spicy Pops",
+    "category": "Chicken Pops (10 Pieces)",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 110
+      }
+    ],
+    "image": "/img/nuggets.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "cheesy-pops",
+    "name": "Cheesy Pops",
+    "category": "Chicken Pops (10 Pieces)",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 129
+      }
+    ],
+    "image": "/img/nuggets.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "chicken-momos",
+    "name": "Chicken Momos",
+    "category": "Momos (5 Pieces)",
+    "variants": [
+      {
+        "name": "Steamed",
+        "price": 120
+      },
+      {
+        "name": "Fried",
+        "price": 120
+      }
+    ],
+    "image": "/img/momos.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "veg-momos",
+    "name": "Veg Momos",
+    "category": "Momos (5 Pieces)",
+    "variants": [
+      {
+        "name": "Steamed",
+        "price": 110
+      },
+      {
+        "name": "Fried",
+        "price": 110
+      }
+    ],
+    "image": "/img/momos.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "chicken-peri-peri-momos",
+    "name": "Chicken Peri Peri Momos",
+    "category": "Momos (5 Pieces)",
+    "variants": [
+      {
+        "name": "Steamed",
+        "price": 129
+      },
+      {
+        "name": "Fried",
+        "price": 129
+      }
+    ],
+    "image": "/img/momos.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "veg-peri-peri-momos",
+    "name": "Veg Peri Peri Momos",
+    "category": "Momos (5 Pieces)",
+    "variants": [
+      {
+        "name": "Steamed",
+        "price": 124
+      },
+      {
+        "name": "Fried",
+        "price": 124
+      }
+    ],
+    "image": "/img/momos.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "schezwan-momos",
+    "name": "Schezwan Momos",
+    "category": "Momos (5 Pieces)",
+    "variants": [
+      {
+        "name": "Steamed",
+        "price": 149
+      },
+      {
+        "name": "Fried",
+        "price": 149
+      }
+    ],
+    "image": "/img/momos.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "cheesy-momos",
+    "name": "Cheesy Momos",
+    "category": "Momos (5 Pieces)",
+    "variants": [
+      {
+        "name": "Steamed",
+        "price": 149
+      },
+      {
+        "name": "Fried",
+        "price": 149
+      }
+    ],
+    "image": "/img/momos.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "creamy-cheesy-spicy-momos",
+    "name": "Creamy Cheesy Spicy Momos",
+    "category": "Momos (5 Pieces)",
+    "variants": [
+      {
+        "name": "Steamed",
+        "price": 199
+      },
+      {
+        "name": "Fried",
+        "price": 199
+      }
+    ],
+    "image": "/img/momos.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "plain-fries",
+    "name": "Plain Fries",
+    "category": "French Fries (Medium / Large)",
+    "variants": [
+      {
+        "name": "Medium",
+        "price": 99
+      },
+      {
+        "name": "Large",
+        "price": 149
+      }
+    ],
+    "image": "/img/fries.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "peri-peri-fries",
+    "name": "Peri Peri Fries",
+    "category": "French Fries (Medium / Large)",
+    "variants": [
+      {
+        "name": "Medium",
+        "price": 149
+      },
+      {
+        "name": "Large",
+        "price": 199
+      }
+    ],
+    "image": "/img/fries.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "cheesy-fries",
+    "name": "Cheesy Fries",
+    "category": "French Fries (Medium / Large)",
+    "variants": [
+      {
+        "name": "Medium",
+        "price": 149
+      },
+      {
+        "name": "Large",
+        "price": 199
+      }
+    ],
+    "image": "/img/fries.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "schezwan-fries",
+    "name": "Schezwan Fries",
+    "category": "French Fries (Medium / Large)",
+    "variants": [
+      {
+        "name": "Medium",
+        "price": 149
+      },
+      {
+        "name": "Large",
+        "price": 199
+      }
+    ],
+    "image": "/img/fries.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "creamy-fries",
+    "name": "Creamy Fries",
+    "category": "French Fries (Medium / Large)",
+    "variants": [
+      {
+        "name": "Medium",
+        "price": 149
+      },
+      {
+        "name": "Large",
+        "price": 199
+      }
+    ],
+    "image": "/img/fries.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "honey-fries",
+    "name": "Honey Fries",
+    "category": "French Fries (Medium / Large)",
+    "variants": [
+      {
+        "name": "Medium",
+        "price": 149
+      },
+      {
+        "name": "Large",
+        "price": 199
+      }
+    ],
+    "image": "/img/fries.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "spicy-fries",
+    "name": "Spicy Fries",
+    "category": "French Fries (Medium / Large)",
+    "variants": [
+      {
+        "name": "Medium",
+        "price": 149
+      },
+      {
+        "name": "Large",
+        "price": 199
+      }
+    ],
+    "image": "/img/fries.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "peri-peri-cheesy-fries",
+    "name": "Peri Peri Cheesy Fries",
+    "category": "French Fries (Medium / Large)",
+    "variants": [
+      {
+        "name": "Medium",
+        "price": 149
+      },
+      {
+        "name": "Large",
+        "price": 199
+      }
+    ],
+    "image": "/img/fries.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "loaded-fries",
+    "name": "Loaded Fries",
+    "category": "Loaded Fries",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 149
+      }
+    ],
+    "image": "/img/fries.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "cheesy-loaded-fries",
+    "name": "Cheesy Loaded Fries",
+    "category": "Loaded Fries",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 169
+      }
+    ],
+    "image": "/img/fries.webp",
+    "available": true,
+    "featured": true
+  },
+  {
+    "id": "special-loaded-fries",
+    "name": "Special Loaded Fries",
+    "category": "Loaded Fries",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 199
+      }
+    ],
+    "image": "/img/fries.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "peri-peri-loaded-fries",
+    "name": "Peri Peri Loaded Fries",
+    "category": "Loaded Fries",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 169
+      }
+    ],
+    "image": "/img/fries.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "normal-nuggets",
+    "name": "Normal Nuggets",
+    "category": "Nuggets",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 120
+      }
+    ],
+    "image": "/img/nuggets.webp",
+    "available": true,
+    "featured": true
+  },
+  {
+    "id": "peri-peri-nuggets",
+    "name": "Peri Peri Nuggets",
+    "category": "Nuggets",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 149
+      }
+    ],
+    "image": "/img/nuggets.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "cheesy-nuggets",
+    "name": "Cheesy Nuggets",
+    "category": "Nuggets",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 149
+      }
+    ],
+    "image": "/img/nuggets.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "spicy-nuggets",
+    "name": "Spicy Nuggets",
+    "category": "Nuggets",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 149
+      }
+    ],
+    "image": "/img/nuggets.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "normal-chicken-strips",
+    "name": "Normal Chicken Strips",
+    "category": "Chicken Strips (5 Pieces + Fries)",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 229
+      }
+    ],
+    "image": "/img/strips.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "peri-peri-chicken-strips",
+    "name": "Peri Peri Chicken Strips",
+    "category": "Chicken Strips (5 Pieces + Fries)",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 249
+      }
+    ],
+    "image": "/img/strips.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "ginger-garlic-chicken-strips",
+    "name": "Ginger Garlic Chicken Strips",
+    "category": "Chicken Strips (5 Pieces + Fries)",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 249
+      }
+    ],
+    "image": "/img/strips.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "jalapeno-chicken-strips",
+    "name": "Jalapeno Chicken Strips",
+    "category": "Chicken Strips (5 Pieces + Fries)",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 249
+      }
+    ],
+    "image": "/img/strips.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "schezwan-chicken-strips",
+    "name": "Schezwan Chicken Strips",
+    "category": "Chicken Strips (5 Pieces + Fries)",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 249
+      }
+    ],
+    "image": "/img/strips.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "honey-chicken-strips",
+    "name": "Honey Chicken Strips",
+    "category": "Chicken Strips (5 Pieces + Fries)",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 259
+      }
+    ],
+    "image": "/img/strips.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "normal-chicken-wings",
+    "name": "Normal Chicken Wings",
+    "category": "Chicken Wings (5 Pieces + Fries)",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 239
+      }
+    ],
+    "image": "/img/wings.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "peri-peri-chicken-wings",
+    "name": "Peri Peri Chicken Wings",
+    "category": "Chicken Wings (5 Pieces + Fries)",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 259
+      }
+    ],
+    "image": "/img/wings.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "ginger-garlic-chicken-wings",
+    "name": "Ginger Garlic Chicken Wings",
+    "category": "Chicken Wings (5 Pieces + Fries)",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 259
+      }
+    ],
+    "image": "/img/wings.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "jalapeno-chicken-wings",
+    "name": "Jalapeno Chicken Wings",
+    "category": "Chicken Wings (5 Pieces + Fries)",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 259
+      }
+    ],
+    "image": "/img/wings.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "schezwan-chicken-wings",
+    "name": "Schezwan Chicken Wings",
+    "category": "Chicken Wings (5 Pieces + Fries)",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 259
+      }
+    ],
+    "image": "/img/wings.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "honey-chicken-wings",
+    "name": "Honey Chicken Wings",
+    "category": "Chicken Wings (5 Pieces + Fries)",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 269
+      }
+    ],
+    "image": "/img/wings.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "fish-finger-fries",
+    "name": "Fish Finger + Fries",
+    "category": "Cafe 90's Special Combos",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 199
+      }
+    ],
+    "image": "/img/fries.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "prawns-ball-lobster-pops-fries",
+    "name": "Prawns Ball / Lobster Pops + Fries",
+    "category": "Cafe 90's Special Combos",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 220
+      }
+    ],
+    "image": "/img/fries.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "strips-wings-5-pieces-5-pieces-2-buns-fries",
+    "name": "Strips & Wings (5 Pieces + 5 Pieces + 2 Buns + Fries)",
+    "category": "Cafe 90's Special Combos",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 379
+      }
+    ],
+    "image": "/img/wings.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "peri-peri-strips-wings-5-pieces-5-pieces-2-buns-fries",
+    "name": "Peri Peri Strips & Wings (5 Pieces + 5 Pieces + 2 Buns + Fries)",
+    "category": "Cafe 90's Special Combos",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 399
+      }
+    ],
+    "image": "/img/wings.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "honey-strips-wings-5-pieces-5-pieces-2-buns-fries",
+    "name": "Honey Strips & Wings (5 Pieces + 5 Pieces + 2 Buns + Fries)",
+    "category": "Cafe 90's Special Combos",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 419
+      }
+    ],
+    "image": "/img/wings.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "banana-protein-shake",
+    "name": "Banana Protein Shake",
+    "category": "Cafe 90's Special Protein Shakes",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 200
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "mango-protein-shake",
+    "name": "Mango Protein Shake",
+    "category": "Cafe 90's Special Protein Shakes",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 220
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "apple-protein-shake",
+    "name": "Apple Protein Shake",
+    "category": "Cafe 90's Special Protein Shakes",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 240
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "chocolate-protein-shake",
+    "name": "Chocolate Protein Shake",
+    "category": "Cafe 90's Special Protein Shakes",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 240
+      }
+    ],
+    "image": "/img/shake.webp",
+    "available": true,
+    "featured": false
+  }
+]
